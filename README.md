@@ -16,7 +16,7 @@ Exploratory data analysis was first carreid out to understand the data and addre
 ## Explanble machine leanring 
 Three machine leanirng classifiers were experimented. They are Gradient Boosting, Random Forest, and MultiLayer Perceptron. SHAP was used to explain the important variables used my the model. this allow sus to know which contextual features are useful for grasslnad mapping. 
 
-Research Team
+## Research Team
  - Ryan Engtromg, PhD, Associate Professor of Geography and of International Affairs, The George Washington University
  - Ginger Allington, PhD, Associate Professor of Geography and of International Affairs, The George Washington University
  - Brook Iocone, M.S 22, The George Washington University
