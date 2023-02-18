@@ -13,8 +13,8 @@ The analysis was carried out using python 3.8. Other packages needed can be foun
 ## Exploratory data analysis 
 Exploratory data analysis was first carreid out to understand the data and address other data issues. They include correlation matrix, histogram and spectral signature plots of contextual features. 
 
-## Explanble machine leanring 
-Three machine leanirng classifiers were experimented. They are Gradient Boosting, Random Forest, and MultiLayer Perceptron. SHAP was used to explain the important variables used my the model. this allow sus to know which contextual features are useful for grasslnad mapping. 
+## Explanable machine leanring 
+Three machine leanirng classifiers were experimented. They are Gradient Boosting, Random Forest, and MultiLayer Perceptron. SHAP was used to explain the important variables used in the model. This allow us to know which contextual features are useful for grasslnad mapping, and how features contributed to prediction. 
 
 ## Research Team
  - Ryan Engtromg, PhD, Associate Professor of Geography and of International Affairs, The George Washington University
