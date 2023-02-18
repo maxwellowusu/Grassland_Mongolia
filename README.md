@@ -21,6 +21,10 @@ Three machine leanirng classifiers were experimented. They are Gradient Boosting
  - Ginger Allington, PhD, Associate Professor of Geography and of International Affairs, The George Washington University
  - Brook Iocone, M.S 22, The George Washington University
  - Maxwell owusu, M.S '23, The George Washington University
+
+
+## Author
+- Maxwell Owusu
  
  
  
